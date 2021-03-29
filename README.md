@@ -1,2 +1,2 @@
 # test-repo
-text 2
+text 1
